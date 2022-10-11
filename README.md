@@ -9,5 +9,6 @@
 ### 感谢 [hai-27](https://github.com/hai-27) 的开源 [vue-store](https://github.com/hai-27/vue-store) 项目提供前端页面及框架支持
 
 ## 具体项目内容以及部署请移步
+## 加一个从远程修改同步到本地，pull
 ##尝试修改后，推送到远程
 https://github.com/ZeroWdd/Xiaomi
